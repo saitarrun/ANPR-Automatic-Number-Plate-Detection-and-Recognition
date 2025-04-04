@@ -71,13 +71,12 @@ Useful for improving accuracy based on custom datasets.
 
 🔒 Future Scope & Restrictions
 Planned future integrations include:
+1.  Vehicle registration database validation (e.g., VAHAN)
 
-🔗 Vehicle registration database validation (e.g., VAHAN)
+2. Web-based dashboard with logs and analytics
 
-🌐 Web-based dashboard with logs and analytics
+3. Location & timestamp mapping
 
-📍 Location & timestamp mapping
+4. Mobile app & SMS alerts
 
-📱 Mobile app & SMS alerts
-
-⚠️ These advanced integrations are currently under private development and restricted from public display. Please reach out for authorized access.
+⚠️ Other advanced integrations are currently under private development and restricted from public display. Please reach out for authorized access.
