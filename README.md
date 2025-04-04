@@ -59,15 +59,16 @@ python train_model.py
 Useful for improving accuracy based on custom datasets.
 
 💡 Features
-✅ Real-time detection using webcam
+____________________________________________
+1. Real-time detection using webcam
 
-🧠 OCR with EasyOCR and Tesseract
+2. OCR with EasyOCR and Tesseract
 
-📸 Snapshot of detected plates
+3. Snapshot of detected plates
 
-📤 Modular structure for easy upgrades
+4. Modular structure for easy upgrades
 
-📂 Output display on frame or via terminal
+5. Output display on frame or via terminal
 
 🔒 Future Scope & Restrictions
 Planned future integrations include:
