@@ -37,6 +37,7 @@ Install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) and add it t
 pip install opencv-python easyocr pytesseract tensorflow keras imutils
 
 🚀 How to Execute
+___
 ▶️ Run the Main Program
 bash
 Copy
