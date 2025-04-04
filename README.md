@@ -70,7 +70,9 @@ ____________________________________________
 
 5. Output display on frame or via terminal
 
+
 🔒 Future Scope & Restrictions
+________________________________________________
 Planned future integrations include:
 1.  Vehicle registration database validation (e.g., VAHAN)
 
